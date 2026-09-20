@@ -456,3 +456,48 @@ Los números parecen neutrales; en el litigio se vuelven **arma retórica**. Mis
 - [[Cap-03-04-Control-Coercitivo-Familia|Capítulo 3.4. Control coercitivo, familia y custodia]]
 - [[Cap-06-01-Medea-Damnatio-Rehen|Capítulo 6.1. Laboratorio literario: Medea, damnatio memoriae y el menor como rehén]]
 - [[MOC-Evidencia]]
+
+<!-- sync:mermaid-boot -->
+<script type="module">
+/* Quartz OFM mermaid solo escucha nav/render; en carga directa el SVG no se pinta. */
+(async () => {
+  const ready = () => {
+    const center = document.querySelector(".center");
+    return center ? [...center.querySelectorAll("code.mermaid")] : [];
+  };
+  let nodes = ready();
+  if (!nodes.length) {
+    await new Promise((r) => setTimeout(r, 50));
+    nodes = ready();
+  }
+  if (!nodes.length) return;
+  if (nodes.every((n) => n.querySelector("svg"))) return;
+  const sources = new WeakMap();
+  for (const n of nodes) sources.set(n, n.innerText);
+  const mod = await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");
+  const mermaid = mod.default;
+  const paint = async () => {
+    for (const n of nodes) {
+      n.removeAttribute("data-processed");
+      const src = sources.get(n);
+      if (src) n.textContent = src;
+    }
+    const dark = document.documentElement.getAttribute("saved-theme") === "dark";
+    mermaid.initialize({
+      startOnLoad: false,
+      securityLevel: "loose",
+      theme: dark ? "dark" : "base",
+    });
+    await mermaid.run({ nodes });
+  };
+  try {
+    await paint();
+  } catch (err) {
+    console.warn("[vf mermaid-boot]", err);
+  }
+  document.addEventListener("themechange", () => {
+    paint().catch(() => {});
+  });
+})();
+</script>
+<!-- /sync:mermaid-boot -->
