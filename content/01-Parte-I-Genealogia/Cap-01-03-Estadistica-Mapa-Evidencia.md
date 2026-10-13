@@ -1,8 +1,8 @@
 ---
 title: "Mapa estadístico: prevalencia, base rates y límites de la evidencia"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-20
-conocimiento: 103
+lastmod: 2026-10-13
+conocimiento: 116
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 1.3. Mapa estadístico: prevalencia, base rates y límites de la evidencia
 
 <!-- sync:version-badge -->
-> **v1.12** · conocimiento **103** · actualizado **2026-09-20**
+> **v1.13** · conocimiento **116** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -310,6 +310,8 @@ Oleada 2026-09-20: ~85 trabajos (meta/sysrev + Nordics + doctrina ES) ingeridos 
 
 **Nordics (muestras grandes, no causalidad forense):** Bergström et al. — dos hogares / salud mental / mudanzas frecuentes ([@bergstrom2013livingintwoh]; [[2013-Bergstrom-living-in-two-homes-a-swedish-national-survey]] · [@bergstrom2014mentalhealth]; [[2014-Bergstrom-mental-health-in-swedish-children-living-in-j]] · [@bergstrom2015fiftymovesay]; [[2015-Bergstrom-fifty-moves-a-year-is-there-an-association-be]]); Carlsund riesgo adolescente ([@carlsund2012riskbehaviou]; [[2012-Carlsund-risk-behaviour-in-swedish-adolescents-is-shar]] · [@carlsund2012sharedphysic]; [[2012-Carlsund-shared-physical-custody-after-family-split-up]]); Turunen autoestima ([@turunen2017selfesteemin]; [[2017-Turunen-self-esteem-in-children-in-joint-physical-cus]]); Fransson condiciones de vida ([@fransson2017thelivingcon]; [[2017-Fransson-the-living-conditions-of-children-with-shared]]); Hjern escolares ([@hjern2021mentalhealth]; [[2021-Hjern-mental-health-in-schoolchildren-in-joint-phys]]); Spruijt NL ([@spruijt2009jointphysica]; [[2009-Spruijt-joint-physical-custody-in-the-netherlands-and]]); Steinbach adolescentes 37 países ([@steinbach2020jointphysica]; [[2020-Steinbach-joint-physical-custody-and-adolescents-life-s]]) y horarios post-sep ([@steinbach2021postseparati]; [[2021-Steinbach-post-separation-parenting-time-schedules-in-j]]); Hakovirta Europa ([@hakovirta2023jointphysica]; [[2023-Hakovirta-joint-physical-custody-of-children-in-europe]]); Meyer US tendencia shared ([@meyer2022increasesins]; [[2022-Meyer-increases-in-shared-custody-after-divorce-in]]); Augustijn (estrés, vínculo, economía materna) ([@augustijn2021childrensexp]; [[2021-Augustijn-children-s-experiences-of-stress-in-joint-phy]] · [@augustijn2021jointphysica]; [[2021-Augustijn-joint-physical-custody-parent-child-relations]] · [@augustijn2021theassociati]; [[2021-Augustijn-the-association-between-joint-physical-custod]] · [@augustijn2021therelationb]; [[2021-Augustijn-the-relation-between-joint-physical-custody-i]] · [@augustijn2022mothersecono]; [[2022-Augustijn-mothers-economic-well-being-in-sole-and-joint]]).
 
+**Oleada 2026-10-13 (OA, refuerzo §2.8 — no cambia la tesis condicional):** Fransson et al. matizan qué se puede afirmar sobre shared parenting y bienestar ([@fransson2018whatcanwesay]; [[2018-Fransson-what-can-we-say-regarding-shared-parenting-ar]] · [@fransson2015psychologica]; [[2015-Fransson-psychological-complaints-among-children-in-jo]]). Bergström et al. añaden preescolares en JPC ([@bergstrom2017preschoolchi]; [[2017-Bergstrom-preschool-children-living-in-joint-physical-c]]). Nilsen et al. conectan JPC con logro académico ([@nilsen2022jointphysica]; [[2022-Nilsen-joint-physical-custody-and-academic-achieveme]]) —puente [[Cap-07-01-Escuela-Consejeria-Logro|Capítulo 7.1. Escuela, consejería y logro: el menor entre hogares y aula]]. Turunen et al.: apoyo parental percibido por el niño ([@turunen2023childperceiv]; [[2023-Turunen-child-perceived-parental-support-and-knowledg]]). Augustijn: bienestar materno bajo JPC ([@augustijn2023jointphysica]; [[2023-Augustijn-joint-physical-custody-and-mothers-well-being]]); Steinbach: soledad parental sole vs joint ([@steinbach2022parentslonel]; [[2022-Steinbach-parents-loneliness-in-sole-and-joint-physical]]). Brons: gradiente socioeconómico en JPC ([@brons2026thesocioecon]; [[2026-Brons-the-socioeconomic-gradient-in-joint-physical]]) —selección, no RCT. Merla / Jensen / Guevara: shared parenting comparado y corresponsabilidad (contexto, no epi forense) ([@merla2024takingshared]; [[2024-Merla-taking-shared-parenting-seriously-a-comparati]] · [@jensen2025navigatingsh]; [[2025-Jensen-navigating-shared-custody-with-young-children]] · [@guevara2025corresponsab]; [[2025-Guevara-corresponsabilidad-parental-y-proteccion-infa]]). Calvo / Solsona: configuración legal ES de compartida ([@calvo2020sharedcustod]; [[2020-Calvo-shared-custody-configuration-in-spanish-law]] · [@solsona2016effectsofthe]; [[2016-Solsona-effects-of-the-2010-civil-code-on-trends-in-j]]).
+
 #### 2.8b Condiciones (cuándo deja de ser pertinente)
 
 1. **Seguridad / IPV.** Joint custody con violencia de pareja es riesgosa: Greenberg 2005 ([@greenberg2005domesticviol]; [[2005-Greenberg-domestic-violence-and-the-danger-of-joint-cus]]). Puente [[Cap-03-04-Control-Coercitivo-Familia|Capítulo 3.4. Control coercitivo, familia y custodia]] · [[Cap-04-03-IPV-Custodia-Denuncias|Capítulo 4.3. Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo]].  
@@ -440,7 +442,7 @@ Los números parecen neutrales; en el litigio se vuelven **arma retórica**. Mis
 - Alegaciones: [@anon2005falseallegat] · [@smit2015betweenscyll] · [@faller1996allegations] · [@anon2018thefrequency] · [@meier2017mappinggende] · [@blush1987sexualalleg]  
 - MX pack: [@inegi2021endireh] · [@inegi2025endireh26] · [@inegi2024ed] · [@evipar2023mexico] · [@lgdnna2014convivenci] · [@fnvv2022encuestavic] · [@acevedo2020alienacionsaltillo]  
 - La Haya / MX–US: [@hcch2023globalreport] · [@sre2024sustraccion] · [@usstate2025mexicoica] · [@johnston2001familyabdu] · [@shetty2005adultdomes] · [@hcch2020guide13b]  
-- Compartida vs unilateral (§2.8): [@bauserman2002childadjustm] · [@baude2016childadjustm] · [@nielsen2014sharedphysic] · [@nielsen2018jointversuss] · [@vowels2023systematicre] · [@mahrer2018doessharedpa] · [@ohara2019parentingtim] · [@lamb2018doessharedpa] · [@greenberg2005domesticviol] · [@steinbach2018childrensand]
+- Compartida vs unilateral (§2.8): [@bauserman2002childadjustm] · [@baude2016childadjustm] · [@nielsen2014sharedphysic] · [@nielsen2018jointversuss] · [@vowels2023systematicre] · [@mahrer2018doessharedpa] · [@ohara2019parentingtim] · [@lamb2018doessharedpa] · [@greenberg2005domesticviol] · [@steinbach2018childrensand] · oleada 2026-10: [@fransson2018whatcanwesay] · [@bergstrom2017preschoolchi] · [@nilsen2022jointphysica] · [@turunen2023childperceiv] · [@augustijn2023jointphysica] · [@brons2026thesocioecon] · [@calvo2020sharedcustod]
 - Marco: [@meland2026love] · [@leematurana2021alienacionpa]
 
 ## Enlaces relacionados
