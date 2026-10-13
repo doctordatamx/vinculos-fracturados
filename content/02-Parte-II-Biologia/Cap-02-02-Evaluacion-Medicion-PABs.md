@@ -1,8 +1,8 @@
 ---
 title: "Evaluación y medición: comportamientos parentales alienantes, escalas y peritaje"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-19
-conocimiento: 86
+lastmod: 2026-10-13
+conocimiento: 80
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 2.2. Evaluación y medición: comportamientos parentales alienantes, escalas y peritaje
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **86** · actualizado **2026-09-19**
+> **v1.3** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -165,6 +165,37 @@ Medir es resistirse al hechizo del adjetivo. La *damnatio* del progenitor ausent
 | [@singh2025parentalinte] | [[2025-Singh-parental-interference-and-marital-stability-a]] | media | 39 |
 | [@anon2026parentalment] | [[2026-Anon-parental-mental-health-and-union-dissolution]] | media | 37 |
 | [@anon2021primaryandse] | [[2021-Anon-primary-and-secondary-caregiver-depressive-sy]] | media | 37 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@vegadiaz2023influenceofp] | [[2023-Vega-Diaz-influence-of-parental-involvement-and-parenti]] | alta | 121 |
+| [@li2025adversechild] | [[2025-Li-adverse-childhood-experiences-contribute-to-b]] | alta | 118 |
+| [@casullo2008percepcionso] | [[2008-Casullo-percepcion-sobre-estilos-e-inconsistencia-par]] | media | 87 |
+| [@hancer2026separationan] | [[2026-Hancer-separation-anxiety-in-emerging-adults-the-rol]] | media | 76 |
+| [@gonzalez2025therightdose] | [[2025-Gonzalez-the-right-dose-of-data-balancing-reliability]] | media | 76 |
+| [@bernet2020measuringthe] | [[2020-Bernet-Gregory-PARQ-Gap-alienation-vs-estrangement]] | alta | 72 |
+| [@rowlands2020parentalali] | [[2020-Rowlands-RPAS-confirmatory-factor-analysis-validation]] | media | 68 |
+| [@gomide2016analysisofth] | [[2016-Gomide-analysis-of-the-psychometric-properties-of-a]] | media | 67 |
+| [@millings2020emotionalada] | [[2020-Millings-emotional-adaptation-to-relationship-dissolut]] | media | 66 |
+| [@rowlands2019parentalali] | [[2019-Rowlands-parental-alienation-measurement-tool-RPAS]] | media | 65 |
+| [@janowicz2026parentalgat] | [[2026-Janowicz-Puhlman-parental-gatekeeping-scale-revised]] | media | 60 |
+| [@anon2003familyandleg] | [[2003-Anon-family-and-legal-indicators-of-child-adjustme]] | media | 59 |
+| [@guntherbel2020amixedmethod] | [[2020-Gunther-Bel-a-mixed-method-study-of-individual-couple-and]] | media | 58 |
+| [@portilla2023psychologic] | [[2023-Portilla-Saavedra-psychological-distress-young-chilean-PABs]] | media | 58 |
+| [@anon2026parentalgate] | [[2026-Anon-parental-gatekeeping-scale-revised-adaptation]] | media | 55 |
+| [@crawford2014bufferingneg] | [[2014-Crawford-buffering-negative-impacts-of-divorce-on-chil]] | media | 53 |
+| [@strickland2002biosocialori] | [[2002-Strickland-bio-social-origins-of-depression-in-the-commu]] | media | 52 |
+| [@hald2026divorceconfl] | [[2026-Hald-divorce-conflict-and-health-across-the-divorc]] | media | 51 |
+| [@anon2026communitystr] | [[2026-Anon-community-strategy-for-digital-well-being-for]] | media | 50 |
+| [@anon2002custodyandac] | [[2002-Anon-custody-and-access-issues-with-children-whose]] | media | 43 |
+| [@anon2007the10itemrem] | [[2007-Anon-the-10-item-remembered-relationship-with-pare]] | media | 43 |
+| [@kaneko2020examinationo] | [[2020-Kaneko-examination-of-the-reliability-and-validity-o]] | media | 43 |
+| [@anon2004forensicpsyc] | [[2004-Anon-forensic-psychology-in-iceland-a-survey-of-me]] | media | 43 |
+| [@anon2021developmenta] | [[2021-Anon-development-and-preliminary-validation-of-the]] | media | 43 |
+| [@anon2002custodyandac] | [[2002-Anon-custody-and-access-issues-with-children-whose-2]] | media | 43 |
 
 ## Fuentes integradas (núcleo en prosa)
 
