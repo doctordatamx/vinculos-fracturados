@@ -2,7 +2,7 @@
 title: "Mapa estadístico: prevalencia, base rates y límites de la evidencia"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-10-13
-conocimiento: 116
+conocimiento: 85
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 1.3. Mapa estadístico: prevalencia, base rates y límites de la evidencia
 
 <!-- sync:version-badge -->
-> **v1.13** · conocimiento **116** · actualizado **2026-10-13**
+> **v1.14** · conocimiento **85** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -312,6 +312,8 @@ Oleada 2026-09-20: ~85 trabajos (meta/sysrev + Nordics + doctrina ES) ingeridos 
 
 **Oleada 2026-10-13 (OA, refuerzo §2.8 — no cambia la tesis condicional):** Fransson et al. matizan qué se puede afirmar sobre shared parenting y bienestar ([@fransson2018whatcanwesay]; [[2018-Fransson-what-can-we-say-regarding-shared-parenting-ar]] · [@fransson2015psychologica]; [[2015-Fransson-psychological-complaints-among-children-in-jo]]). Bergström et al. añaden preescolares en JPC ([@bergstrom2017preschoolchi]; [[2017-Bergstrom-preschool-children-living-in-joint-physical-c]]). Nilsen et al. conectan JPC con logro académico ([@nilsen2022jointphysica]; [[2022-Nilsen-joint-physical-custody-and-academic-achieveme]]) —puente [[Cap-07-01-Escuela-Consejeria-Logro|Capítulo 7.1. Escuela, consejería y logro: el menor entre hogares y aula]]. Turunen et al.: apoyo parental percibido por el niño ([@turunen2023childperceiv]; [[2023-Turunen-child-perceived-parental-support-and-knowledg]]). Augustijn: bienestar materno bajo JPC ([@augustijn2023jointphysica]; [[2023-Augustijn-joint-physical-custody-and-mothers-well-being]]); Steinbach: soledad parental sole vs joint ([@steinbach2022parentslonel]; [[2022-Steinbach-parents-loneliness-in-sole-and-joint-physical]]). Brons: gradiente socioeconómico en JPC ([@brons2026thesocioecon]; [[2026-Brons-the-socioeconomic-gradient-in-joint-physical]]) —selección, no RCT. Merla / Jensen / Guevara: shared parenting comparado y corresponsabilidad (contexto, no epi forense) ([@merla2024takingshared]; [[2024-Merla-taking-shared-parenting-seriously-a-comparati]] · [@jensen2025navigatingsh]; [[2025-Jensen-navigating-shared-custody-with-young-children]] · [@guevara2025corresponsab]; [[2025-Guevara-corresponsabilidad-parental-y-proteccion-infa]]). Calvo / Solsona: configuración legal ES de compartida ([@calvo2020sharedcustod]; [[2020-Calvo-shared-custody-configuration-in-spanish-law]] · [@solsona2016effectsofthe]; [[2016-Solsona-effects-of-the-2010-civil-code-on-trends-in-j]]).
 
+**Oleada 2026-10b:** Reimann (experiencia infantil «en casa de mamá/papá» y preferencia por equidad percibida) ([@reimann2023atmumsplacea]; [[2023-Reimann-at-mum-s-place-at-dad-s-place-at-home-how-chi]] · [@reimann2023everybodylik]; [[2023-Reimann-everybody-likes-it-more-when-it-s-even-joint]]); Merla (tratamiento judicial de solicitudes de JPC) ([@merla2025judicialtrea]; [[2025-Merla-judicial-treatment-of-applications-for-joint]]); Guamuro-Díaz (tenencia compartida como institución) ([@guamurodiaz2024latenenciaco]; [[2024-Guamuro-Diaz-la-tenencia-compartida-como-institucion-para]]); Portilla-Saavedra (interferencia parental × sustracción) ([@portillasaavedr2025parentalinte]; [[2025-Portilla-Saavedra-parental-interference-family-abduction-and-it]]).
+
 #### 2.8b Condiciones (cuándo deja de ser pertinente)
 
 1. **Seguridad / IPV.** Joint custody con violencia de pareja es riesgosa: Greenberg 2005 ([@greenberg2005domesticviol]; [[2005-Greenberg-domestic-violence-and-the-danger-of-joint-cus]]). Puente [[Cap-03-04-Control-Coercitivo-Familia|Capítulo 3.4. Control coercitivo, familia y custodia]] · [[Cap-04-03-IPV-Custodia-Denuncias|Capítulo 4.3. Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo]].  
@@ -435,6 +437,13 @@ Los números parecen neutrales; en el litigio se vuelven **arma retórica**. Mis
 - ¿Réplica Hine en DE/ES/CA/US?
 - ¿Outcomes MX de compartida vs unilateral (no solo % ED)?
 - ¿Umbral de tiempo (% / pernoctas) que modera outcomes en LATAM?
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@escobedo2011thesocialpol] | [[2011-Escobedo-the-social-politics-of-fatherhood-in-spain-an]] | media | 30 |
 
 ## Fuentes integradas (clave)
 
