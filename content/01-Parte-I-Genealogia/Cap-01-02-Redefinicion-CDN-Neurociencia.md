@@ -1,7 +1,7 @@
 ---
 title: "Redefinición operativa: Derechos del Niño y neurociencia del apego"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-19
+lastmod: 2026-10-13
 conocimiento: 80
 ejes:
 nivel_evidencia_global: media
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 1.2. Redefinición operativa: Derechos del Niño y neurociencia del apego
 
 <!-- sync:version-badge -->
-> **v1.3** · conocimiento **80** · actualizado **2026-09-19**
+> **v1.3** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -184,6 +184,37 @@ La *damnatio memoriae* —borrar el nombre— choca con el derecho del niño a u
 | [@anon2025prevalencean] | [[2025-Anon-prevalence-and-correlates-of-adverse-childhoo]] | alta | 85 |
 | [@ormiston2022asystematicr] | [[2022-Ormiston-a-systematic-review-of-secondary-traumatic-st]] | alta | 81 |
 | [@luo2022variationofp] | [[2022-Luo-variation-of-parental-feeding-practices-durin]] | alta | 81 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@anon2024theeffective] | [[2024-Anon-the-effectiveness-of-interventions-on-changin]] | alta | 132 |
+| [@leematurana2021alienacionpa] | [[2021-Lee-Maturana-alienacion-parental-una-revision-sistematica]] | alta | 114 |
+| [@portillasaavedr2021perspectivas] | [[2021-Portilla-Saavedra-perspectivas-y-tendencias-actuales-del-concep]] | alta | 114 |
+| [@ellis2021developmenta] | [[2021-Ellis-developmental-programming-of-oxytocin-through]] | alta | 102 |
+| [@brandao2024terminologia] | [[2024-Brandao-terminologia-especializada-para-a-pratica-de]] | media | 97 |
+| [@memon2026assessingfam] | [[2026-Memon-assessing-family-planning-progress-in-exempla]] | alta | 96 |
+| [@boe2021lopivi] | [[2021-BOE-LOPIVI-Ley-Organica-8-2021-infancia-violencia]] | alta | 95 |
+| [@anon2025theprospecti] | [[2025-Anon-the-prospective-associations-between-parental]] | alta | 92 |
+| [@anon2023outcomesande] | [[2023-Anon-outcomes-and-experiences-after-child-custody]] | alta | 92 |
+| [@lechuga2023laconceptual] | [[2023-Lechuga-la-conceptualizacion-cientifica-de-la-violenc]] | alta | 90 |
+| [@lgdnna2014convivenci] | [[2014-LGDNNA-Mexico-convivencia-familias-separadas-art23]] | alta | 90 |
+| [@anon2026artificialin] | [[2026-Anon-artificial-intelligence-in-forensic-medicine]] | alta | 88 |
+| [@carrenomoreno2024adopciondelr] | [[2024-Carreno-Moreno-adopcion-del-rol-ansiedad-depresion-y-soledad]] | media | 87 |
+| [@rodriguez2010factorespers] | [[2010-Rodriguez-factores-personales-y-familiares-asociados-a]] | media | 87 |
+| [@cerqueira2008construcaoev] | [[2008-Cerqueira-construcao-e-validacao-da-escala-de-locus-de]] | media | 87 |
+| [@gouveia2013avaliandolem] | [[2013-Gouveia-avaliando-lembrancas-de-alienacao-e-controle]] | media | 87 |
+| [@ruiz2016dificultades] | [[2016-Ruiz-dificultades-de-las-familias-para-participar]] | media | 87 |
+| [@anon2025adversechild] | [[2025-Anon-adverse-childhood-experiences-are-associated]] | alta | 85 |
+| [@antonacci2026earlyadversi] | [[2026-Antonacci-early-adversity-imprints-multisystem-biologic]] | media | 85 |
+| [@gupta2026influenceofe] | [[2026-Gupta-influence-of-early-life-adversity-on-academic]] | media | 85 |
+| [@anon2022adversechild] | [[2022-Anon-adverse-childhood-experiences-and-risk-of-dia]] | alta | 85 |
+| [@anon2025genderbasedv] | [[2025-Anon-gender-based-violence-against-migrant-women-f]] | alta | 85 |
+| [@lucasthompson2015associations] | [[2015-Lucas-Thompson-associations-between-marital-conflict-and-ado]] | media | 85 |
+| [@anon2026prevalenceof] | [[2026-Anon-prevalence-of-adverse-childhood-experience-it]] | alta | 85 |
+| [@anon2025prevalencean] | [[2025-Anon-prevalence-and-correlates-of-adverse-childhoo]] | alta | 85 |
 
 ## Fuentes integradas (núcleo en prosa)
 
