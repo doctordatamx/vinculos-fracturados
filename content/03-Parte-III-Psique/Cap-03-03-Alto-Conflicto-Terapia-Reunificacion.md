@@ -1,8 +1,8 @@
 ---
 title: "Alto conflicto, terapia familiar y reunificación"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-20
-conocimiento: 88
+lastmod: 2026-10-13
+conocimiento: 80
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 3.3. Alto conflicto, terapia familiar y reunificación
 
 <!-- sync:version-badge -->
-> **v1.6** · conocimiento **88** · actualizado **2026-09-20**
+> **v1.6** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -150,6 +150,37 @@ Perdón impuesto es otra forma de *damnatio*: borrar el miedo para limpiar el ex
 | [@mila2010instrumentos] | [[2010-Mila-instrumentos-de-evaluacion-psicologica-en-las]] | media | 45 |
 | [@anon1996issuesinfore] | [[1996-Anon-issues-in-forensic-psychiatry-in-islamic-juri]] | media | 45 |
 | [@anon2020ataskanalysi] | [[2020-Anon-a-task-analysis-of-client-re-engagement-thera]] | media | 43 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@farina2017ametaanalyti] | [[2017-Farina-a-meta-analytic-review-of-the-mmpi-validity-s]] | alta | 139 |
+| [@pjcdmx2024guiatecnica] | [[2024-PJCDMX-guia-tecnica-evaluacion-intervencion-psicologica]] | alta | 88 |
+| [@telles2009reliabilityo] | [[2009-Telles-reliability-of-the-brazilian-version-of-hcr-2]] | media | 87 |
+| [@pjedomex2021manualfor] | [[2021-PJEdomex-manual-psicologia-forense-familiar]] | alta | 85 |
+| [@oaj2022guiapsicofor] | [[2022-OAJ-guia-valoracion-prueba-pericial-psicologia-forense]] | alta | 82 |
+| [@pjtabasco2018protocolopsic] | [[2018-PJTabasco-protocolo-peritajes-psicologicos-civil-familiar]] | alta | 78 |
+| [@ohara2019parentingtim] | [[2019-OHara-Sandler-parenting-time-quality-conflict-child-mental-health]] | alta | 75 |
+| [@ohara2019parentingtim] | [[2019-O-Hara-parenting-time-parenting-quality-interparenta]] | media | 70 |
+| [@templer2016recommendati] | [[2016-Templer-recommendations-for-best-practice-in-response]] | alta | 70 |
+| [@vowels2023systematicre] | [[2023-Vowels-systematic-review-and-theoretical-comparison]] | alta | 70 |
+| [@facchinetti2010nolabirintod] | [[2010-Facchinetti-no-labirinto-das-fontes-do-hospicio-nacional]] | media | 69 |
+| [@ohara2023preventingm] | [[2023-OHara-Wolchik-preventing-mental-health-problems-high-conflict-separation]] | media | 68 |
+| [@evipar2023mexico] | [[2023-EVIPAR-S-violencia-pareja-control-coercitivo-Mexico]] | media | 68 |
+| [@baude2016childadjustm] | [[2016-Baude-child-adjustment-in-joint-physical-custody-ve]] | alta | 65 |
+| [@lange2022parentalcon] | [[2022-Lange-Visser-parental-conflicts-PTSD-children-high-conflict-divorce]] | media | 65 |
+| [@bauserman2012ametaanalysi] | [[2012-Bauserman-a-meta-analysis-of-parental-satisfaction-adju]] | alta | 65 |
+| [@bauserman2002childadjustm] | [[2002-Bauserman-child-adjustment-in-joint-custody-versus-sole]] | alta | 65 |
+| [@guarda2025derechoalasa2] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-la-interve]] | media | 60 |
+| [@guarda2025derechoalasa] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-contenido]] | media | 60 |
+| [@guarda2025derechoalasa4] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-los-proces-4]] | media | 60 |
+| [@guarda2025derechoalasa] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-contenido-2]] | media | 60 |
+| [@guarda2025derechoalasa2] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-la-interve-2]] | media | 60 |
+| [@guarda2025derechoalasa4] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-los-proces-2]] | media | 60 |
+| [@anon2017timingmatter] | [[2017-Anon-timing-matters-a-randomized-control-trial-of]] | media | 59 |
+| [@anon2020item] | [[2020-Anon-item]] | media | 59 |
 
 ## Fuentes integradas (núcleo en prosa)
 
