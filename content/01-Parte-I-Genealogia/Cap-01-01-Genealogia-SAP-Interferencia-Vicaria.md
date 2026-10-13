@@ -2,7 +2,7 @@
 title: "Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-10-13
-conocimiento: 89
+conocimiento: 80
 ejes:
 nivel_evidencia_global: controversia
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: controversia
 # Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria
 
 <!-- sync:version-badge -->
-> **v1.1** · conocimiento **89** · actualizado **2026-10-13**
+> **v1.1** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
