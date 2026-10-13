@@ -1,7 +1,7 @@
 ---
 title: "Qué cambió en el libro — septiembre 2026"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-20
+lastmod: 2026-10-13
 fecha: "2026-09-20"
 ---
 
@@ -56,6 +56,12 @@ Detalle y mapa de decisión: [[Cap-01-03-Estadistica-Mapa-Evidencia|Capítulo 1.
 ## 7. Genealogía del debate, versión estable
 
 [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria|Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria]] queda como ancla de lectura: del SAP de Gardner a PABs / PCCP / violencia vicaria, sin negar IPV ni convertir todo rechazo en manipulación (doble riesgo Meland).
+
+---
+
+## 8. Oleada octubre 2026 (~52 OA nuevos)
+
+Cosecha OpenAlex (título filtrado) + digests: refuerzo de **JPC/Nordics y logro** en Cap-01-03 §2.8; **progenitor objetivo / ZICAP / RRD** en Cap-01-01; **vicaria×AP LATAM** (doctrina) en Cap-05; gatekeeping en Cap-03-01; Nilsen→escuela en Cap-07. La tesis no cambia: pertinencia **condicional**, tipificación ≠ prevalencia.
 
 ---
 
