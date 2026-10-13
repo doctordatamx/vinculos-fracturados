@@ -1,8 +1,8 @@
 ---
 title: "Jurisprudencia mexicana (SCJN): custodia, violencia familiar e interés superior"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-19
-conocimiento: 92
+lastmod: 2026-10-13
+conocimiento: 80
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 4.2. Jurisprudencia mexicana (SCJN): custodia, violencia familiar e interés superior
 
 <!-- sync:version-badge -->
-> **v1.11** · conocimiento **92** · actualizado **2026-09-19**
+> **v1.11** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -399,6 +399,37 @@ El Semanario escribe en mayúsculas lo que la casa susurra. La letra de la tesis
 | [@httpssjf2scjn2026suplenciadel] | [[2026-Https-Sjf2-Scjn-Gob-suplencia-de-la-queja-deficiente-en-materia-p]] | media | 35 |
 | [@httpssjf2scjn2025recursodeape] | [[2025-Https-Sjf2-Scjn-Gob-recurso-de-apelacion-es-procedente-contra-la]] | media | 35 |
 | [@httpssjf2scjn2025conveniodedi] | [[2025-Https-Sjf2-Scjn-Gob-convenio-de-divorcio-requisitos-que-debe-colm]] | media | 35 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@scjn2021protocoloinfancia] | [[2021-SCJN-protocolo-juzgar-perspectiva-infancia-adolescencia]] | alta | 90 |
+| [@scjn2022mudanzadomi] | [[2022-SCJN-mudanza-domicilio-custodio-convivencia-distancia]] | alta | 88 |
+| [@anterior2022interessuper] | [[2022-Anterior-interes-superior-del-menor-de-edad-cuando-en]] | media | 70 |
+| [@scjn2025guardaycustodiacua] | [[2025-Https-Sjf2-Scjn-Gob-guarda-y-custodia-cuando-terceras-personas-ej]] | media | 70 |
+| [@httpssjf2scjn2025principioded] | [[2025-Https-Sjf2-Scjn-Gob-principio-de-definitividad-en-amparo-directo-2]] | media | 60 |
+| [@httpssjf2scjn2026excepcionalp] | [[2026-Https-Sjf2-Scjn-Gob-excepcion-al-principio-de-definitividad-en-am]] | media | 60 |
+| [@scjn2026emplazamientoaunac] | [[2026-Https-Sjf2-Scjn-Gob-emplazamiento-a-una-controversia-del-orden-fa]] | media | 60 |
+| [@scjn2026reconvencinprocede] | [[2026-Https-Sjf2-Scjn-Gob-reconvencion-procede-en-el-incidente-de-guard]] | media | 60 |
+| [@scjn2025emplazamientoaunac] | [[2025-Https-Sjf2-Scjn-Gob-emplazamiento-a-una-controversia-del-orden-fa]] | media | 60 |
+| [@httpssjf2scjn2025suspensionpr] | [[2025-Https-Sjf2-Scjn-Gob-suspension-provisional-contra-el-cambio-de-ad-2]] | media | 60 |
+| [@scjn2021pruebapsicolgicapr] | [[2021-Https-Sjf2-Scjn-Gob-prueba-psicologica-practicada-a-un-menor-de-e]] | media | 60 |
+| [@httpssjf2scjn2026regimendecon] | [[2026-Https-Sjf2-Scjn-Gob-regimen-de-convivencias-la-accion-para-modifi]] | media | 60 |
+| [@scjn2025amparoindirectopro] | [[2025-Https-Sjf2-Scjn-Gob-amparo-indirecto-procede-excepcionalmente-con]] | media | 60 |
+| [@httpssjf2scjn2025principioded] | [[2025-Https-Sjf2-Scjn-Gob-principio-de-definitividad-en-amparo-directo]] | media | 60 |
+| [@httpssjf2scjn2026excepcionalp] | [[2026-Https-Sjf2-Scjn-Gob-excepcion-al-principio-de-definitividad-en-am-2]] | media | 60 |
+| [@seguimiento2025amparoindire] | [[2025-Seguimiento-amparo-indirecto-por-regla-general-procede-co]] | media | 60 |
+| [@ninas2026cosajuzgadae] | [[2026-Ninas-cosa-juzgada-en-el-juicio-de-amparo-cuando-se]] | media | 60 |
+| [@httpssjf2scjn2025juiciosumari] | [[2025-Https-Sjf2-Scjn-Gob-juicio-sumario-civil-cuando-se-promueve-para]] | media | 60 |
+| [@scjn2017delitodeviolacinag] | [[2017-Https-Sjf2-Scjn-Gob-delito-de-violacion-agravada-por-haberse-come]] | media | 60 |
+| [@scjn2022violenciafamiliarp] | [[2022-Https-Sjf2-Scjn-Gob-violencia-familiar-para-acreditar-los-element]] | media | 60 |
+| [@scjn2024pensinalimenticiae] | [[2024-Https-Sjf2-Scjn-Gob-pension-alimenticia-el-progenitor-no-custodio]] | media | 60 |
+| [@httpssjf2scjn2025suspensionpr] | [[2025-Https-Sjf2-Scjn-Gob-suspension-provisional-contra-el-cambio-de-ad]] | media | 60 |
+| [@scjn2024cosajuzgadamateria] | [[2024-Https-Sjf2-Scjn-Gob-cosa-juzgada-material-o-refleja-no-se-actuali]] | media | 60 |
+| [@scjn2024convivenciaentrepe] | [[2024-Https-Sjf2-Scjn-Gob-convivencia-entre-personas-menores-de-edad-co]] | media | 60 |
+| [@castillo2010guardaycusto] | [[2010-Castillo-guarda-y-custodia-compartida-deslocalizacion]] | media | 45 |
 
 ## Fuentes integradas
 
