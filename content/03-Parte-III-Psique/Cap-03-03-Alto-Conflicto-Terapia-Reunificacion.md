@@ -2,7 +2,7 @@
 title: "Alto conflicto, terapia familiar y reunificación"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-10-13
-conocimiento: 80
+conocimiento: 86
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 3.3. Alto conflicto, terapia familiar y reunificación
 
 <!-- sync:version-badge -->
-> **v1.6** · conocimiento **80** · actualizado **2026-10-13**
+> **v1.7** · conocimiento **86** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -49,11 +49,11 @@ Guyette–Harris documentan, en progenitores con vínculo tenso, impotencia, lí
 
 ### 2.3 Intervenciones: coordinación, familia, alto conflicto
 
-Rautio et al. revisan intervenciones en divorcios/separaciones de alto conflicto ([@rautio2025intervention]; [[2025-Rautio-interventions-in-high-conflict-divorces-separ]]). Parenting coordination aplica pensamiento clínico a litigios crónicos ([@anon2016parentingcoo]; [[2016-Anon-parenting-coordination-applying-clinical-thin]]). Terapia familiar integrativa ([@anon2007integrativef]; [[2007-Anon-integrative-family-therapy-for-high-conflict]]), reducción de conflicto interparental ([@anon2012reducinginte]; [[2012-Anon-reducing-interparental-conflict-among-parents]]), de-escalada y re-engagement ([@anon2020ataskanalysi]; [[2020-Anon-a-task-analysis-of-client-re-engagement-thera]]), educación parental temprana ([@anon2024acallforearl]; [[2024-Anon-a-call-for-early-effective-and-scalable-paren]]). «It takes a village» para domar alto conflicto ([@anon2016ittakesavill]; [[2016-Anon-it-takes-a-village-taming-high-conflict-with]]).
+Rautio et al. revisan intervenciones en divorcios/separaciones de alto conflicto ([@rautio2025intervention]; [[2025-Rautio-interventions-in-high-conflict-divorces-separ]]). Parenting coordination aplica pensamiento clínico a litigios crónicos ([@anon2016parentingcoo]; [[2016-Anon-parenting-coordination-applying-clinical-thin]]). **Oleada 2026-10b:** Jong —salvaguardas y enfoque más uniforme de parenting coordination ([@jong2015suggestedsaf]; [[2015-Jong-suggested-safeguards-and-limitations-for-effe]] · [@jong2022towardsamore]; [[2022-Jong-towards-a-more-uniform-approach-to-parenting]]); Huerta: parenting coordination en jurisprudencia española ([@huerta2026parentingcoo]; [[2026-Huerta-parenting-coordination-in-spanish-jurispruden]]). Terapia familiar integrativa ([@anon2007integrativef]; [[2007-Anon-integrative-family-therapy-for-high-conflict]]), reducción de conflicto interparental ([@anon2012reducinginte]; [[2012-Anon-reducing-interparental-conflict-among-parents]]), de-escalada y re-engagement ([@anon2020ataskanalysi]; [[2020-Anon-a-task-analysis-of-client-re-engagement-thera]]), educación parental temprana ([@anon2024acallforearl]; [[2024-Anon-a-call-for-early-effective-and-scalable-paren]]). «It takes a village» para domar alto conflicto ([@anon2016ittakesavill]; [[2016-Anon-it-takes-a-village-taming-high-conflict-with]]).
 
 ### 2.4 Reunificación: voluntaria, reconsiderada, RT vs. integración
 
-Matthewson et al. exploran reunificación **voluntaria** desde adultos alienados de niño y progenitores «blanco» ([@matthewson2023aqualitative]; [[2023-Matthewson-a-qualitative-exploration-of-reunification-po]]). Marco integrativo «reunification reconsidered» frente a resistencia al contacto ([@anon2025reunificatio]; [[2025-Anon-reunification-reconsidered-presenting-an-inte]]). Alan contrasta *reunification therapy* con terapia de integración familiar —distinción de modelo, no de slogan ([@alan2020reunificatio]; [[2020-Alan-reunification-therapy-versus-family-integrati]]). Terapia familiar basada en familia para reunificación progenitor-hijo ([@anon2016familybasedt]; [[2016-Anon-family-based-therapy-for-parent-child-reunifi]]); tratamiento psicosocial histórico de PA ([@anon2011thepsychosoc]; [[2011-Anon-the-psychosocial-treatment-of-parental-aliena]]). Bolaños describe abordajes psicolegales hispanos ([@bolanos2002sap]; [[2002-Bolanos-SAP-descripcion-abordajes-psicolegales]]).
+Matthewson et al. exploran reunificación **voluntaria** desde adultos alienados de niño y progenitores «blanco» ([@matthewson2023aqualitative]; [[2023-Matthewson-a-qualitative-exploration-of-reunification-po]]). Marco integrativo «reunification reconsidered» frente a resistencia al contacto ([@anon2025reunificatio]; [[2025-Anon-reunification-reconsidered-presenting-an-inte]]). Alan contrasta *reunification therapy* con terapia de integración familiar —distinción de modelo, no de slogan ([@alan2020reunificatio]; [[2020-Alan-reunification-therapy-versus-family-integrati]]). Campo: reunificación en el family court australiano ([@campo2026reunificatio]; [[2026-Campo-reunification-therapy-within-the-australian-f]]). Mercer advierte cuándo «terapias» de reunificación no son terapéuticas ([@mercer202462whentherap]; [[2024-Mercer-6-2-when-therapies-are-not-therapeutic-reunif]]). Head: ciencia y seguridad cuando los niños resisten el contacto ([@head2026whenchildren]; [[2026-Head-when-children-resist-science-safety-and-rethi]]). Terapia familiar basada en familia para reunificación progenitor-hijo ([@anon2016familybasedt]; [[2016-Anon-family-based-therapy-for-parent-child-reunifi]]); tratamiento psicosocial histórico de PA ([@anon2011thepsychosoc]; [[2011-Anon-the-psychosocial-treatment-of-parental-aliena]]). Bolaños describe abordajes psicolegales hispanos ([@bolanos2002sap]; [[2002-Bolanos-SAP-descripcion-abordajes-psicolegales]]).
 
 #### 2.4b Reunificación **ordenada por tribunal**: eficacia, daño y «Far West»
 
