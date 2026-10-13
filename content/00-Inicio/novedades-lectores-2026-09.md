@@ -59,9 +59,11 @@ Detalle y mapa de decisión: [[Cap-01-03-Estadistica-Mapa-Evidencia|Capítulo 1.
 
 ---
 
-## 8. Oleada octubre 2026 (~52 OA nuevos)
+## 8. Oleadas octubre 2026 (~102 OA nuevos)
 
-Cosecha OpenAlex (título filtrado) + digests: refuerzo de **JPC/Nordics y logro** en Cap-01-03 §2.8; **progenitor objetivo / ZICAP / RRD** en Cap-01-01; **vicaria×AP LATAM** (doctrina) en Cap-05; gatekeeping en Cap-03-01; Nilsen→escuela en Cap-07. La tesis no cambia: pertinencia **condicional**, tipificación ≠ prevalencia.
+**Oleada A (~52):** JPC/Nordics y logro (Cap-01-03 §2.8); progenitor objetivo / ZICAP / RRD (Cap-01-01); vicaria×AP LATAM (Cap-05); gatekeeping (Cap-03-01); Nilsen→escuela (Cap-07).
+
+**Oleada B (~50):** control coercitivo y abuso post-separación (Stark/Katz/Spearman → Cap-03-04); parenting coordination y reunificación con caveats (Jong/Huerta/Campo/Mercer/Head → Cap-03-03); peritaje (Saunders/Ortega → Cap-03-05); más doctrina vicaria/AP. Tesis intacta: pertinencia **condicional**, tipificación ≠ prevalencia.
 
 ---
 
