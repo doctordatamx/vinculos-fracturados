@@ -1,8 +1,8 @@
 ---
 title: "Trauma de ruptura forzada: apego, estrés y neurodesarrollo"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-19
-conocimiento: 84
+lastmod: 2026-10-13
+conocimiento: 80
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 2.1. Trauma de ruptura forzada: apego, estrés y neurodesarrollo
 
 <!-- sync:version-badge -->
-> **v1.4** · conocimiento **84** · actualizado **2026-09-19**
+> **v1.4** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -193,6 +193,37 @@ El árbol a la sombra de sus raíces ([@roysland2026meta]) nombra lo que la clí
 | [@casullo2008percepcionso] | [[2008-Casullo-percepcion-sobre-estilos-e-inconsistencia-par]] | media | 87 |
 | [@anon2023theassociati] | [[2023-Anon-the-association-between-parental-attachment-a]] | alta | 87 |
 | [@anon2025adversechild] | [[2025-Anon-adverse-childhood-experiences-are-associated]] | alta | 85 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@anon2024theeffective] | [[2024-Anon-the-effectiveness-of-interventions-on-changin]] | alta | 132 |
+| [@szymanska2017psychophysio] | [[2017-Szymanska-psychophysiological-effects-of-oxytocin-on-pa]] | alta | 125 |
+| [@vegadiaz2023influenceofp] | [[2023-Vega-Diaz-influence-of-parental-involvement-and-parenti]] | alta | 121 |
+| [@li2025adversechild] | [[2025-Li-adverse-childhood-experiences-contribute-to-b]] | alta | 118 |
+| [@leematurana2021alienacionpa] | [[2021-Lee-Maturana-alienacion-parental-una-revision-sistematica]] | alta | 114 |
+| [@portillasaavedr2021perspectivas] | [[2021-Portilla-Saavedra-perspectivas-y-tendencias-actuales-del-concep]] | alta | 114 |
+| [@lima2024sintomasdean] | [[2024-Lima-sintomas-de-ansiedade-e-depressao-em-criancas]] | media | 109 |
+| [@ellis2021developmenta] | [[2021-Ellis-developmental-programming-of-oxytocin-through]] | alta | 102 |
+| [@brandao2024terminologia] | [[2024-Brandao-terminologia-especializada-para-a-pratica-de]] | media | 97 |
+| [@giacomo2024theinterplay] | [[2024-Giacomo-the-interplay-between-borderline-personality]] | alta | 96 |
+| [@memon2026assessingfam] | [[2026-Memon-assessing-family-planning-progress-in-exempla]] | alta | 96 |
+| [@na2025socialdeterm] | [[2025-Na-social-determinants-of-health-and-suicide-rel]] | alta | 96 |
+| [@lin2025urbanisation] | [[2025-Lin-urbanisation-and-mental-health-in-left-behind]] | alta | 96 |
+| [@anon2025theprospecti] | [[2025-Anon-the-prospective-associations-between-parental]] | alta | 92 |
+| [@anon2023outcomesande] | [[2023-Anon-outcomes-and-experiences-after-child-custody]] | alta | 92 |
+| [@tomoda2024theneurobiol] | [[2024-Tomoda-the-neurobiological-effects-of-childhood-malt]] | alta | 91 |
+| [@lechuga2023laconceptual] | [[2023-Lechuga-la-conceptualizacion-cientifica-de-la-violenc]] | alta | 90 |
+| [@lgdnna2014convivenci] | [[2014-LGDNNA-Mexico-convivencia-familias-separadas-art23]] | alta | 90 |
+| [@anon2026artificialin] | [[2026-Anon-artificial-intelligence-in-forensic-medicine]] | alta | 88 |
+| [@vasconcelos2016factorsrelat] | [[2016-Vasconcelos-factors-related-to-stress-in-divorces-with-ch]] | media | 87 |
+| [@carrenomoreno2024adopciondelr] | [[2024-Carreno-Moreno-adopcion-del-rol-ansiedad-depresion-y-soledad]] | media | 87 |
+| [@rodriguez2010factorespers] | [[2010-Rodriguez-factores-personales-y-familiares-asociados-a]] | media | 87 |
+| [@cerqueira2008construcaoev] | [[2008-Cerqueira-construcao-e-validacao-da-escala-de-locus-de]] | media | 87 |
+| [@gouveia2013avaliandolem] | [[2013-Gouveia-avaliando-lembrancas-de-alienacao-e-controle]] | media | 87 |
+| [@casullo2008percepcionso] | [[2008-Casullo-percepcion-sobre-estilos-e-inconsistencia-par]] | media | 87 |
 
 ## Fuentes integradas (núcleo en prosa)
 
