@@ -1,8 +1,8 @@
 ---
 title: "Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-19
-conocimiento: 102
+lastmod: 2026-10-13
+conocimiento: 80
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 4.3. Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo
 
 <!-- sync:version-badge -->
-> **v1.5** · conocimiento **102** · actualizado **2026-09-19**
+> **v1.5** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -121,6 +121,37 @@ La orden de protección y la demanda de alienación pueden ser, cada una, escudo
 
 
 
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@anon2024item] | [[2024-Anon-item-3]] | alta | 103 |
+| [@dof2024interpósita] | [[2024-DOF-violencia-interpósita-persona-LGAMVLV-CCF-CPF]] | alta | 95 |
+| [@inegi2021endireh] | [[2021-INEGI-ENDIREH-violencia-mujeres-mexico-nacional]] | alta | 92 |
+| [@hcch2020guide13b] | [[2020-HCCH-Guide-Good-Practice-Part-VI-Article-13-1-b]] | alta | 90 |
+| [@inegi2024ed] | [[2024-INEGI-Estadistica-Divorcios-ED]] | alta | 88 |
+| [@anon2025adversechild2] | [[2025-Anon-adverse-childhood-experiences-and-loneliness]] | alta | 85 |
+| [@lohmann2024thetraumaand] | [[2024-Lohmann-trauma-mental-health-impacts-coercive-control-sysrev]] | alta | 80 |
+| [@artetxe2026violenciadeg] | [[2026-Artetxe-violencia-de-genero-respuesta-escolar-y-parti]] | media | 79 |
+| [@moreno2023vivenciassob] | [[2023-Moreno-vivencias-sobre-el-cuidado-en-la-vejez-analis]] | media | 79 |
+| [@yupanquiconcha2022yofuiviolent] | [[2022-Yupanqui-Concha-yo-fui-violentada-adentro-estando-en-un-lugar]] | media | 79 |
+| [@bruck1999suggestibili] | [[1999-Bruck-Ceci-suggestibility-of-childrens-memory]] | alta | 78 |
+| [@xyrakis2024interparent] | [[2024-Xyrakis-interparental-coercive-control-child-family-outcomes]] | alta | 78 |
+| [@ceci2006childrenssug] | [[2006-Ceci-Bruck-childrens-suggestibility-characteristics-mechanisms]] | alta | 75 |
+| [@anon2026measuringpsy] | [[2026-Anon-measuring-psychologically-abusive-behaviors-i]] | alta | 75 |
+| [@pjmich2021protocolovg] | [[2021-PJMich-protocolo-actuacion-judicial-violencia-genero]] | alta | 75 |
+| [@otgaar2022whatscience] | [[2022-Otgaar-Howe-what-science-tells-us-false-repressed-memories]] | alta | 72 |
+| [@smit2015betweenscyll] | [[2015-Smit-between-scylla-and-charybdis-csa-allegations-divorce]] | media | 72 |
+| [@larsen2022alongitudina] | [[2022-Larsen-a-longitudinal-study-on-changes-in-food-paren]] | media | 70 |
+| [@anon2023asystematicr] | [[2023-Anon-a-systematic-review-of-children-s-perspective]] | alta | 70 |
+| [@anon2024interparenta] | [[2024-Anon-interparental-coercive-control-and-child-and]] | alta | 70 |
+| [@oliveira2026bidirectiona] | [[2026-Oliveira-bidirectional-associations-between-fathers-fo]] | media | 70 |
+| [@whovaw2023espana] | [[2023-WHO-VAW-adaptacion-validacion-Espana-conductas-controladoras]] | media | 70 |
+| [@rocha2024pordentrodos] | [[2024-Rocha-por-dentro-dos-cantinhos-obscuros-carmen-dolo]] | media | 69 |
+| [@goncalves2022ativismoemdi] | [[2022-Goncalves-ativismo-em-direitos-humanos-e-violencia-nota]] | media | 69 |
+| [@bidasolo2010problematica] | [[2010-Bidasolo-problematica-juridico-penal-y-politico-crimin]] | media | 69 |
 
 ## Fuentes integradas (núcleo citado en prosa)
 
