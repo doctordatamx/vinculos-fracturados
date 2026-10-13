@@ -1,8 +1,8 @@
 ---
 title: "Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-20
-conocimiento: 80
+lastmod: 2026-10-13
+conocimiento: 89
 ejes:
 nivel_evidencia_global: controversia
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: controversia
 # Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria
 
 <!-- sync:version-badge -->
-> **v1.0** · conocimiento **80** · actualizado **2026-09-20**
+> **v1.1** · conocimiento **89** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -60,6 +60,8 @@ En el ámbito hispanohablante, Bolaños (2002) traduce tempranamente ese marco a
 La crítica metodológica (falta de validación sindrómica robusta, riesgo de uso circular en tribunales) empuja a reformular el fenómeno como **parental alienation** (comportamientos alienantes + resultado en el menor), no como enfermedad del niño. Autores posteriores enfatizan gravedad dimensional, contexto de apego y diagnóstico diferencial con maltrato. El constructo se acerca a la psicología forense contemporánea: menos «síndrome», más **evaluación de procesos**.
 
 **Anclas hispanas/lusas recientes (vault).** Lee-Maturana sintetiza sistemáticamente la literatura de alienación parental en español ([@leematurana2021alienacionpa]; [[2021-Lee-Maturana-alienacion-parental-una-revision-sistematica]]). Portilla-Saavedra et al. actualizan perspectivas y tendencias del concepto ([@portillasaavedr2021perspectivas]; [[2021-Portilla-Saavedra-perspectivas-y-tendencias-actuales-del-concep]]). Segura et al. enmarcan el SAP como forma de maltrato infantil ([@segura2006elsindromede]; [[2006-Segura-el-sindrome-de-alienacion-parental-una-forma]]). Cardeal et al. revisan tecnologías patriarcales en violencia —útil para situar el debate en género y poder sin cerrar el capítulo en un solo bando ([@cardeal2025tecnologiasp]; [[2025-Cardeal-tecnologias-patriarcais-uma-revisao-sistemati]]).
+
+**Oleada 2026-10-13 — progenitor objetivo, práctica y escalas.** Templer et al. resumen recomendaciones de buena práctica ante alienación ([@templer2016recommendati]; [[2016-Templer-recommendations-for-best-practice-in-response]]). Lee-Maturana et al. caracterizan experiencias de progenitores *targeted* ([@leematurana2018characterist]; [[2018-Lee-Maturana-characteristics-and-experiences-of-targeted-p]] · [@leematurana2020targetedpare]; [[2020-Lee-Maturana-targeted-parents-surviving-parental-alienatio]] · [@leematurana2021tenkeyfindin]; [[2021-Lee-Maturana-ten-key-findings-on-targeted-parents-experien]]). Miralles et al.: consecuencias emocionales a largo plazo ([@miralles2021longtermemot]; [[2021-Miralles-long-term-emotional-consequences-of-parental-2]]). Harman et al.: alegaciones de violencia familiar en corte y cómo se cruzan con PA ([@harman2020allegationso]; [[2020-Harman-allegations-of-family-violence-in-court-how-p]]) —puente Meland / [[Cap-04-03-IPV-Custodia-Denuncias|Capítulo 4.3. Violencia de pareja, custodia y denuncias: protección, instrumentalización y doble riesgo]]. Zicavo: escalas ZICAP / ZICAP-II de evaluación de alienación ([@zicavo2016escalazicapp]; [[2016-Zicavo-escala-zicap-para-la-evaluacion-de-la-alienac]] · [@zicavo2021escalazicapi]; [[2021-Zicavo-escala-zicap-ii-evaluacion-de-alienacion-pare]]) —puente [[Cap-02-02-Evaluacion-Medicion-PABs|Capítulo 2.2. Evaluación y medición: comportamientos parentales alienantes, escalas y peritaje]]. Korosi et al. sitúan PA junto a RRD ([@korosi2025parentalalie]; [[2025-Korosi-parental-alienation-resist-refuse-dynamics-pa]]).
 
 **2010s–2020s — RRD y PCCP: vocabulario clínico-relacional.**  
 Marcos como *resist-refuse dynamics* (dinámicas de resistencia/rechazo) y *parent-child contact problems* desplazan el debate desde la etiqueta polémica hacia la **descripción funcional**: ¿qué mantiene el rechazo? ¿hay miedo fundado, coalición, trauma, incompetencia parental, o campaña activa? Este giro es científicamente más fértil: permite hipótesis rivales, evita el falso dilema «o hay alienación o hay violencia» y obliga a evaluación multimodal.
@@ -243,6 +245,37 @@ _Detalle en digests `01-Fuentes/papers/`. No se inventan hallazgos ausentes del 
 | [@anon2026childsexuala] | [[2026-Anon-child-sexual-abuse-allegations-in-child-custo]] | media | 53 |
 | [@carroll2011memoriaandda] | [[2011-Carroll-memoria-and-damnatio-memoriae-preserving-and]] | media | 43 |
 | [@boyd2022motherswhous] | [[2022-Boyd-mothers-who-use-drugs-closing-the-gaps-in-har]] | media | 36 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@boe2021lopivi] | [[2021-BOE-LOPIVI-Ley-Organica-8-2021-infancia-violencia]] | alta | 95 |
+| [@aefcm2020protocoloin] | [[2020-AEFCM-protocolo-ingreso-entrega-alumnos-educacion-basica-CDMX]] | alta | 80 |
+| [@usstate2025mexicoica] | [[2025-US-State-ICA-Mexico-CY2024]] | alta | 75 |
+| [@logan2013stalkingsys] | [[2013-Logan-Walker-stalking-systematic-review-violence-victims]] | alta | 72 |
+| [@espana2026anteproyect] | [[2026-Espana-Anteproyecto-reforma-LOPIVI-SAP-CGPJ]] | media | 72 |
+| [@copmadrid2009guiabuenas] | [[2009-COPMadrid-guia-buenas-practicas-informes-custodia]] | media | 70 |
+| [@dominguez2025museospedago] | [[2025-Dominguez-museos-pedagogicos-universitarios-y-coleccion]] | media | 69 |
+| [@zamora2024patrimonioye] | [[2024-Zamora-patrimonio-y-educacion-salvaguarda-y-difusion]] | media | 69 |
+| [@machado2020instrumentos] | [[2020-Machado-instrumentos-avaliacao-alienacao-parental-revisao]] | media | 62 |
+| [@inegi2025endireh26] | [[2025-INEGI-ENDIREH-2026-consulta-violencia-vicaria]] | media | 60 |
+| [@avieli2022ifeelerased] | [[2022-Avieli-Levy-I-Feel-Erased-Grandparents]] | media | 58 |
+| [@miranda2005medeaylavo] | [[2005-Miranda-Cancela-Medea-teatro-latinoamericano-contemporaneo]] | media | 58 |
+| [@altenburger2021infantnegati] | [[2021-Altenburger-infant-negative-affect-moderates-longitudinal]] | media | 58 |
+| [@foley1994hymntodemeter] | [[1994-Foley-Homeric-Hymn-to-Demeter]] | baja | 55 |
+| [@saldana2017cuestionari] | [[2017-Saldana-cuestionario-alienacion-parental-padres-divorciados]] | media | 55 |
+| [@bravo2018medeasinthen] | [[2018-Bravo-Medeas-in-the-frontier-LATAM-theatre]] | media | 55 |
+| [@floril2025loscriterios] | [[2025-Floril-los-criterios-jurisprudenciales-en-la-regulac]] | media | 55 |
+| [@anon2026childsexuala] | [[2026-Anon-child-sexual-abuse-allegations-in-child-custo]] | media | 53 |
+| [@cavallero2004actualidad] | [[2004-Cavallero-actualidad-Medea-divorcio-Euripides]] | media | 50 |
+| [@hamadi2025toolittletoo] | [[2025-Hamadi-Havik-too-little-too-late-school-attendance-problems]] | media | 48 |
+| [@bailey1986gabrielslamen] | [[1986-Bailey-Gabriels-Lament]] | baja | 48 |
+| [@daudet1892roseetninett] | [[1892-Daudet-Rose-et-Ninette-moeurs-du-jour]] | baja | 45 |
+| [@puno2018elsindromede] | [[2018-Puno-el-sindrome-de-alienacion-parental-en-la-legi]] | media | 45 |
+| [@zicavo2016escalazicapp] | [[2016-Zicavo-escala-zicap-para-la-evaluacion-de-la-alienac]] | media | 43 |
+| [@carroll2011memoriaandda] | [[2011-Carroll-memoria-and-damnatio-memoriae-preserving-and]] | media | 43 |
 
 ## Fuentes integradas
 
