@@ -1,8 +1,8 @@
 ---
 title: "Evaluación de custodia y peritaje forense"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-20
-conocimiento: 82
+lastmod: 2026-10-13
+conocimiento: 80
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 3.5. Evaluación de custodia y peritaje forense
 
 <!-- sync:version-badge -->
-> **v1.13** · conocimiento **82** · actualizado **2026-09-20**
+> **v1.13** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -210,6 +210,37 @@ El informe forense es un género: **parece neutral y decide destinos**. Su retó
 | [@austin2007relocationre] | [[2007-Austin-relocation-research-and-forensic-evaluation-p]] | media | 25 |
 | [@anon2024practicereso] | [[2024-Anon-practice-resource-for-reproductive-psychiatry]] | media | 25 |
 | [@saunders2015beliefsandre] | [[2015-Saunders-beliefs-and-recommendations-regarding-child-c]] | media | 25 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@farina2017ametaanalyti] | [[2017-Farina-a-meta-analytic-review-of-the-mmpi-validity-s]] | alta | 139 |
+| [@pjcdmx2024guiatecnica] | [[2024-PJCDMX-guia-tecnica-evaluacion-intervencion-psicologica]] | alta | 88 |
+| [@telles2009reliabilityo] | [[2009-Telles-reliability-of-the-brazilian-version-of-hcr-2]] | media | 87 |
+| [@pjedomex2021manualfor] | [[2021-PJEdomex-manual-psicologia-forense-familiar]] | alta | 85 |
+| [@oaj2022guiapsicofor] | [[2022-OAJ-guia-valoracion-prueba-pericial-psicologia-forense]] | alta | 82 |
+| [@pjtabasco2018protocolopsic] | [[2018-PJTabasco-protocolo-peritajes-psicologicos-civil-familiar]] | alta | 78 |
+| [@evipar2023mexico] | [[2023-EVIPAR-S-violencia-pareja-control-coercitivo-Mexico]] | media | 68 |
+| [@ortega2016qualitativea] | [[2016-Ortega-qualitative-analysis-of-current-child-custody]] | media | 53 |
+| [@eddy2021splitting] | [[2021-Eddy-Kreger-Splitting]] | baja | 48 |
+| [@mila2010instrumentos] | [[2010-Mila-instrumentos-de-evaluacion-psicologica-en-las]] | media | 45 |
+| [@anon1996issuesinfore] | [[1996-Anon-issues-in-forensic-psychiatry-in-islamic-juri]] | media | 45 |
+| [@semel2015mmpi2clinica] | [[2015-Semel-mmpi-2-clinical-scale-6-paranoia-and-restruct]] | media | 43 |
+| [@chung2020custodyevalu] | [[2020-Chung-custody-evaluation-process-and-report-writing]] | baja | 41 |
+| [@trottner2020nadienosvio] | [[2020-Trottner-Nadie-nos-vio-partir]] | baja | 38 |
+| [@anon2009fakinggoodon] | [[2009-Anon-faking-good-on-the-mcmi-iii-implications-for]] | media | 37 |
+| [@gbadebogoyea2012collaboratio] | [[2012-Gbadebo-Goyea-collaboration-the-paradigm-of-practice-approa]] | media | 36 |
+| [@frost2007agrandpaforch] | [[2007-Frost-A-Grandpa-for-Christmas]] | baja | 36 |
+| [@resnick2016filicideinth] | [[2016-Resnick-filicide-in-the-united-states]] | media | 36 |
+| [@gennari2018intimatepart] | [[2018-Gennari-intimate-partner-violence-and-child-custody-e]] | media | 36 |
+| [@lee2020theconceptan] | [[2020-Lee-the-concept-and-historical-background-of-cust]] | media | 36 |
+| [@mazza2019mmpi2rfprofi] | [[2019-Mazza-mmpi-2-rf-profiles-in-child-custody-litigants]] | media | 36 |
+| [@rassti2007consideratio] | [[2007-Rassti-considerations-in-child-custody-evaluations-w]] | media | 35 |
+| [@moon2020custodyevalu] | [[2020-Moon-custody-evaluation-in-high-conflict-situation]] | baja | 31 |
+| [@anon2023howexpertare] | [[2023-Anon-how-expert-are-the-experts-child-custody-eval]] | baja | 30 |
+| [@kwak2020thedevelopme] | [[2020-Kwak-the-development-and-scope-of-custody-evaluati]] | media | 30 |
 
 ## Fuentes integradas (núcleo citado en prosa)
 
