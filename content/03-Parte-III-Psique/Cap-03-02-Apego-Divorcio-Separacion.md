@@ -1,14 +1,14 @@
 ---
 title: "Apego, divorcio y separación parental"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-19
-conocimiento: 83
+lastmod: 2026-10-13
+conocimiento: 80
 ejes:
 ---
 # Capítulo 3.2. Apego, divorcio y separación parental
 
 <!-- sync:version-badge -->
-> **v1.5** · conocimiento **83** · actualizado **2026-09-19**
+> **v1.5** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -171,6 +171,37 @@ El menor no elige «casa A o casa B»: elige **no romper del todo** con quien a�
 | [@zarchev2024childhoodadv] | [[2024-Zarchev-childhood-adversity-and-psychopathology-the-d]] | media | 70 |
 | [@mattingly2020unseencostst] | [[2020-Mattingly-unseen-costs-the-direct-and-indirect-impact-o]] | media | 70 |
 | [@deanda2020afterthemarr] | [[2020-Deanda-after-the-marriage-is-over-mothers-separation]] | media | 70 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@szymanska2017psychophysio] | [[2017-Szymanska-psychophysiological-effects-of-oxytocin-on-pa]] | alta | 125 |
+| [@lima2024sintomasdean] | [[2024-Lima-sintomas-de-ansiedade-e-depressao-em-criancas]] | media | 109 |
+| [@giacomo2024theinterplay] | [[2024-Giacomo-the-interplay-between-borderline-personality]] | alta | 96 |
+| [@na2025socialdeterm] | [[2025-Na-social-determinants-of-health-and-suicide-rel]] | alta | 96 |
+| [@lin2025urbanisation] | [[2025-Lin-urbanisation-and-mental-health-in-left-behind]] | alta | 96 |
+| [@tomoda2024theneurobiol] | [[2024-Tomoda-the-neurobiological-effects-of-childhood-malt]] | alta | 91 |
+| [@vasconcelos2016factorsrelat] | [[2016-Vasconcelos-factors-related-to-stress-in-divorces-with-ch]] | media | 87 |
+| [@anon2023theassociati] | [[2023-Anon-the-association-between-parental-attachment-a]] | alta | 87 |
+| [@hagan2016childhoodneg] | [[2016-Hagan-childhood-negative-emotionality-predicts-biob]] | media | 85 |
+| [@hagan2018bingedrinkin] | [[2018-Hagan-binge-drinking-in-adolescence-predicts-an-aty]] | media | 81 |
+| [@karimi2019protectivefa] | [[2019-Karimi-protective-factors-of-marital-stability-in-lo]] | alta | 81 |
+| [@davies2011interparenta] | [[2011-Davies-interparental-aggression-and-children-s-adren]] | media | 80 |
+| [@herrera2018soyunpapasup] | [[2018-Herrera-soy-un-papa-super-normal-experiencias-parenta]] | media | 79 |
+| [@weber2021aexperiencia] | [[2021-Weber-a-experiencia-da-coparentalidade-na-guarda-co]] | media | 79 |
+| [@mendes2018destructived] | [[2018-Mendes-destructive-divorce-in-the-family-life-cycle]] | media | 79 |
+| [@zhao2022theassociati] | [[2022-Zhao-the-association-between-coparenting-behavior]] | alta | 76 |
+| [@kuhlman2018interparent] | [[2018-Kuhlman-Repetti-interparental-conflict-child-HPA-axis]] | alta | 75 |
+| [@conflict2023themoderatin] | [[2023-Conflict-the-moderating-role-of-adrenocortical-reactiv]] | media | 74 |
+| [@luecken2014effectsofapr] | [[2014-Luecken-effects-of-a-prevention-program-for-divorced]] | media | 74 |
+| [@lin2026thelongitudi] | [[2026-Lin-the-longitudinal-association-between-parent-c]] | media | 73 |
+| [@gao2019interrelated] | [[2019-Gao-interrelatedness-of-children-s-psychological]] | media | 73 |
+| [@luecken2016alongitudina] | [[2016-Luecken-a-longitudinal-study-of-the-effects-of-child]] | media | 73 |
+| [@davies2020interparent] | [[2020-Davies-Parry-interparental-conflict-curvilinear-cortisol]] | alta | 72 |
+| [@miralles2021longtermemot] | [[2021-Miralles-long-term-emotional-consequences-of-parental-2]] | alta | 70 |
+| [@jones2017stabilityofa] | [[2017-Jones-stability-of-attachment-style-in-adolescence]] | media | 70 |
 
 ## Fuentes integradas (núcleo en prosa)
 
