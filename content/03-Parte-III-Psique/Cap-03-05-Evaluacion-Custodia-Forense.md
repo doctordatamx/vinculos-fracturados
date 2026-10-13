@@ -2,7 +2,7 @@
 title: "Evaluación de custodia y peritaje forense"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-10-13
-conocimiento: 80
+conocimiento: 86
 ejes:
 nivel_evidencia_global: media
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: media
 # Capítulo 3.5. Evaluación de custodia y peritaje forense
 
 <!-- sync:version-badge -->
-> **v1.13** · conocimiento **80** · actualizado **2026-10-13**
+> **v1.14** · conocimiento **86** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -73,7 +73,7 @@ En alto conflicto, el peritaje no «descubre el SAP»: **reconstruye conductas, 
 
 **Conducta del consultor.** Barth describe la conducta esperada del consultor *antes* de entrar a una evaluación de custodia ([@barth2011consultantco]; [[2011-Barth-consultant-conduct-in-anticipation-of-a-child]]) —útil para auditar conflictos de interés y fusiones evaluación–advocacy.
 
-**Voces cualitativas del campo.** Ortega analiza cualitativamente cómo evaluadores actuales en custodia describen su práctica ([@ortega2016qualitativea]; [[2016-Ortega-qualitative-analysis-of-current-child-custody]]). Dantas et al. (SciELO) mapean heterogeneidad de la avaliação psicológica jurídica en guarda en Brasil ([@dantas2023avaliacaopsi]; [[2023-Dantas-avaliacao-psicologica-juridica-em-processos-d]]) —puente metodológico hacia LATAM sin asumir homogeneidad mexicana.
+**Voces cualitativas del campo.** Ortega analiza cualitativamente cómo evaluadores actuales en custodia describen su práctica ([@ortega2016qualitativea]; [[2016-Ortega-qualitative-analysis-of-current-child-custody]] · [[2016-Ortega-qualitative-analysis-of-current-child-custody-2]]). Saunders: recomendaciones basadas en investigación para evaluación de custodia ([@saunders2015researchbase]; [[2015-Saunders-research-based-recommendations-for-child-cust]]). Webster / Lewis: factores que influyen en evaluaciones y bordes (p. ej. rasgos borderline) ([@webster2022specificfact]; [[2022-Webster-specific-factors-influencing-child-custody-ev]] · [@lewis2023childcustody]; [[2023-Lewis-child-custody-evaluations-and-the-borderline]]). Burla: Parents Preference Test en custodia ([@burla2019useofthepare]; [[2019-Burla-use-of-the-parents-preference-test-in-child-c]]). Dantas et al. (SciELO) mapean heterogeneidad de la avaliação psicológica jurídica en guarda en Brasil ([@dantas2023avaliacaopsi]; [[2023-Dantas-avaliacao-psicologica-juridica-em-processos-d]]) —puente metodológico hacia LATAM sin asumir homogeneidad mexicana. Tarapacá: escala para evaluar alienación parental ([@tarapaca2025escalaparaev]; [[2025-Tarapaca-escala-para-evaluar-alienacion-parental-ap-en]]) —puente [[Cap-02-02-Evaluacion-Medicion-PABs|Capítulo 2.2. Evaluación y medición: comportamientos parentales alienantes, escalas y peritaje]].
 
 **Evaluación forense de alienación (Brasil).** Kirchesch y Sani revisan la avaliação psicológica forense de alienação parental ([@kirchesch2023forensicpsyc]; [[2023-Kirchesch-forensic-psychological-assessment-of-parental]]) —marco lusófono paralelo al debate hispano (Bolaños; terminología en [[Cap-01-01-Genealogia-SAP-Interferencia-Vicaria|Capítulo 1.1. Genealogía crítica: Del SAP (Gardner) a la Interferencia Parental y la Violencia Vicaria]]).
 
