@@ -1,15 +1,15 @@
 ---
 title: "Lealtad forzada, manipulación de la memoria y gatekeeping"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-19
-conocimiento: 89
+lastmod: 2026-10-13
+conocimiento: 83
 ejes:
 nivel_evidencia_global: media
 ---
 # Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping
 
 <!-- sync:version-badge -->
-> **v1.6** · conocimiento **89** · actualizado **2026-09-19**
+> **v1.7** · conocimiento **83** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -28,7 +28,7 @@ Entre el marco normativo ([[Cap-01-02-Redefinicion-CDN-Neurociencia|Capítulo 1.
 
 **Manipulación de la memoria relacional:** reescritura selectiva del pasado compartido (omitir cuidados, inventar peligros, saturar de denigración) hasta que el menor «recuerda» solo la letanía. Distinto de coaching forense mal hecho —pero el expediente puede *reforzar* la letanía ([[Cap-03-05-Evaluacion-Custodia-Forense|Capítulo 3.5. Evaluación de custodia y peritaje forense]]).
 
-**Gatekeeping:** control del acceso del otro progenitor a crianza/tiempo/información. Puede ser **protector** (ante riesgo real / IPV) o **restrictivo/alienante** (sin proporcionalidad). Reis et al.: scoping de gatekeeping↔parenting; foco histórico materno; bidireccionalidad mediada por género ([@reis2025gate]; [[2025-Reis-parental-gatekeeping-parenting-scoping-review]]). Gatekeeping en early intervention: enganchar a *todos* los cuidadores ([@anon2024addressingpa]; [[2024-Anon-addressing-parental-gatekeeping-in-early-inte]]).
+**Gatekeeping:** control del acceso del otro progenitor a crianza/tiempo/información. Puede ser **protector** (ante riesgo real / IPV) o **restrictivo/alienante** (sin proporcionalidad). Reis et al.: scoping de gatekeeping↔parenting; foco histórico materno; bidireccionalidad mediada por género ([@reis2025gate]; [[2025-Reis-parental-gatekeeping-parenting-scoping-review]] · [@reis2026parentalgate]; [[2026-Reis-parental-gatekeeping-and-parenting-in-familie]]). Kaneko: fiabilidad/validez de medida de gatekeeping ([@kaneko2020examinationo]; [[2020-Kaneko-examination-of-the-reliability-and-validity-o]]). Janowicz et al.: gatekeeping en primeros padres ([@janowicz2026parentalgate]; [[2026-Janowicz-parental-gatekeeping-and-first-time-parents-m]]). Gatekeeping en early intervention: enganchar a *todos* los cuidadores ([@anon2024addressingpa]; [[2024-Anon-addressing-parental-gatekeeping-in-early-inte]]).
 
 **PCCP:** *parent-child contact problems* —marco de Guyette–Harris para relaciones tensionadas post-divorcio ([@guyette2025pccp]; [[2025-Guyette-Harris-PCCP-strained-parent-child]]). Contact refusal tras separación acrimoniosa ([@anon2013contactrefus]; [[2013-Anon-contact-refusal-by-children-following-acrimon]]).
 
@@ -204,6 +204,37 @@ Lavado de memoria doméstico —primo del *gaslighting*— y *damnatio* del prog
 | [@anon2020ataskanalysi] | [[2020-Anon-a-task-analysis-of-client-re-engagement-thera]] | media | 43 |
 | [@carroll2011memoriaandda] | [[2011-Carroll-memoria-and-damnatio-memoriae-preserving-and]] | media | 43 |
 | [@anon2002hostilityhos] | [[2002-Anon-hostility-hostile-detachment-and-conflict-eng]] | media | 37 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@ohara2019parentingtim] | [[2019-OHara-Sandler-parenting-time-quality-conflict-child-mental-health]] | alta | 75 |
+| [@ohara2019parentingtim] | [[2019-O-Hara-parenting-time-parenting-quality-interparenta]] | media | 70 |
+| [@templer2016recommendati] | [[2016-Templer-recommendations-for-best-practice-in-response]] | alta | 70 |
+| [@vowels2023systematicre] | [[2023-Vowels-systematic-review-and-theoretical-comparison]] | alta | 70 |
+| [@facchinetti2010nolabirintod] | [[2010-Facchinetti-no-labirinto-das-fontes-do-hospicio-nacional]] | media | 69 |
+| [@dominguez2025museospedago] | [[2025-Dominguez-museos-pedagogicos-universitarios-y-coleccion]] | media | 69 |
+| [@zamora2024patrimonioye] | [[2024-Zamora-patrimonio-y-educacion-salvaguarda-y-difusion]] | media | 69 |
+| [@ohara2023preventingm] | [[2023-OHara-Wolchik-preventing-mental-health-problems-high-conflict-separation]] | media | 68 |
+| [@baude2016childadjustm] | [[2016-Baude-child-adjustment-in-joint-physical-custody-ve]] | alta | 65 |
+| [@lange2022parentalcon] | [[2022-Lange-Visser-parental-conflicts-PTSD-children-high-conflict-divorce]] | media | 65 |
+| [@bauserman2012ametaanalysi] | [[2012-Bauserman-a-meta-analysis-of-parental-satisfaction-adju]] | alta | 65 |
+| [@bauserman2002childadjustm] | [[2002-Bauserman-child-adjustment-in-joint-custody-versus-sole]] | alta | 65 |
+| [@guarda2025derechoalasa2] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-la-interve]] | media | 60 |
+| [@guarda2025derechoalasa] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-contenido]] | media | 60 |
+| [@guarda2025derechoalasa4] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-los-proces-4]] | media | 60 |
+| [@guarda2025derechoalasa] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-contenido-2]] | media | 60 |
+| [@guarda2025derechoalasa2] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-la-interve-2]] | media | 60 |
+| [@guarda2025derechoalasa4] | [[2025-Guarda-derecho-a-la-salud-mental-infantil-los-proces-2]] | media | 60 |
+| [@anon2017timingmatter] | [[2017-Anon-timing-matters-a-randomized-control-trial-of]] | media | 59 |
+| [@anon2020item] | [[2020-Anon-item]] | media | 59 |
+| [@bergstrom2015fiftymovesay] | [[2015-Bergstrom-fifty-moves-a-year-is-there-an-association-be]] | media | 59 |
+| [@ohara2022enhancingdai] | [[2022-O-Hara-enhancing-daily-affect-in-youth-experiencing]] | media | 58 |
+| [@avieli2022ifeelerased] | [[2022-Avieli-Levy-I-Feel-Erased-Grandparents]] | media | 58 |
+| [@connell2009maltreatment] | [[2009-Connell-maltreatment-following-reunification-predicto]] | media | 58 |
+| [@altenburger2021infantnegati] | [[2021-Altenburger-infant-negative-affect-moderates-longitudinal]] | media | 58 |
 
 ## Fuentes integradas (núcleo en prosa)
 
