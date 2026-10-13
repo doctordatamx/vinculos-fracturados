@@ -1,8 +1,8 @@
 ---
 title: "Asimetrías punitivas, denuncia instrumental y dogma de política pública"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-20
-conocimiento: 123
+lastmod: 2026-10-13
+conocimiento: 130
 ejes:
 nivel_evidencia_global: controversia
 ---
@@ -10,7 +10,7 @@ nivel_evidencia_global: controversia
 # Capítulo 5.1. Asimetrías punitivas, denuncia instrumental y dogma de política pública
 
 <!-- sync:version-badge -->
-> **v1.11** · conocimiento **123** · actualizado **2026-09-20**
+> **v1.12** · conocimiento **130** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -116,6 +116,8 @@ flowchart TB
 ### 2.2 Evidencia, sysrev y perícia
 
 Lee-Maturana et al.: revisión sistemática sobre alienación parental ([@leematurana2021alienacionpa]; [[2021-Lee-Maturana-alienacion-parental-una-revision-sistematica]]). Kirchesch aborda evaluación psicológica forense de AP ([@kirchesch2023avaliacaopsi]; [[2023-Kirchesch-avaliacao-psicologica-forense-da-alienacao-pa]]). Hine: prevalencia de PABs y malestar ([@hine2026pab]; [[2026-Hine-Harman-PAB-prevalence-UK-young-adults]]). Head: campañas de retractación y supresión de crítica ([@head2026retraction]; [[2026-Head-retraction-suppression-PA-scholarship]]) —**dogma vs. réplica**.
+
+**Vicaria × AP en LATAM (oleada 2026-10, doctrina — no epi MX).** Espíndola contrapone violencia vicaria y alienación parental como desafío conceptual ([@espindola2026violenciavic]; [[2026-Espindola-violencia-vicaria-vs-alienacion-parental-desa]]). Ordóñez / Naranjo / Angos / Cabrera / Floril / Ruiz documentan tipificación, aportes SDE y criterios jurisprudenciales en contextos andinos/hispanoamericanos ([@ordonez2026laviolenciav]; [[2026-Ordonez-la-violencia-vicaria-como-desafio-constitucio]] · [@naranjo2026laviolenciav]; [[2026-Naranjo-la-violencia-vicaria-en-el-contexto-de-violen]] · [@angos2026lafaltadetip]; [[2026-Angos-la-falta-de-tipificacion-de-la-violencia-vica]] · [@cabrera2024laviolenciav]; [[2024-Cabrera-la-violencia-vicaria-y-los-aportes-de-sde-la]] · [@floril2025loscriterios]; [[2025-Floril-los-criterios-jurisprudenciales-en-la-regulac]] · [@ruiz2025violenciavic]; [[2025-Ruiz-violencia-vicaria-y-genero-en-la-comunidad-an]]). Lectura Cap-05: **mapa normativo desigual ≠ prevalencia**; tipificar vicaria sin tipificar/medir PABs crea asimetría de incentivos (ver §2.1c MX).
 
 ### 2.2a Tribunal, gradiente de tácticas y progenitor objetivo
 
