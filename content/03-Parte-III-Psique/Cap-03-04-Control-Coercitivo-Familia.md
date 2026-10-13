@@ -2,13 +2,13 @@
 title: "Control coercitivo, familia y custodia"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-10-13
-conocimiento: 80
+conocimiento: 90
 ejes:
 ---
 # Capítulo 3.4. Control coercitivo, familia y custodia
 
 <!-- sync:version-badge -->
-> **v1.6** · conocimiento **80** · actualizado **2026-10-13**
+> **v1.7** · conocimiento **90** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -44,6 +44,8 @@ El control coercitivo describe un **régimen de dominación** (aislamiento, vigi
 Sysrev: control coercitivo interparental y resultados infantiles/familiares ([@xyrakis2024interparent] / [@anon2024interparenta]; [[2024-Xyrakis-interparental-coercive-control-child-family-outcomes]] · [[2024-Anon-interparental-coercive-control-and-child-and]]). Meta/sysrev: trauma y salud mental asociados a coercive control ([@lohmann2024thetraumaand]; [[2024-Lohmann-trauma-mental-health-impacts-coercive-control-sysrev]]). Sysrev de perspectivas de niños sobre padres perpetradores de IPV ([@anon2023asystematicr]; [[2023-Anon-a-systematic-review-of-children-s-perspective]]). Apoyo a niños expuestos a violencia familiar ([@risser2022supportingch]; [[2022-Risser-supporting-children-experiencing-family-viole]]). Trauma acumulativo infantil y patrones de comunicación en IPV ([@bouchard2022cumulativech]; [[2022-Bouchard-cumulative-childhood-trauma-communication-pat]]).
 
 **Abuso post-separación.** Spearman y Hardesty: el control coercitivo no termina con la ruptura; custodia/acceso pueden ser el canal ([@spearman2023postseparat]; [[2023-Spearman-Hardesty-post-separation-abuse-concept-analysis]]) —puente a [[Cap-04-01-Medidas-Cautelares-Sesgo|Capítulo 4.1. Medidas cautelares, presunción y victimización institucional]].
+
+**Oleada 2026-10b (OA).** Stark: actualización del marco de control coercitivo ([@stark2018coercivecont]; [[2018-Stark-coercive-control-update-and-review]]). Katz: más allá del incidente físico —cómo viven los niños el régimen coercitivo— y daño cuando el control continúa post-ruptura ([@katz2015beyondthephy]; [[2015-Katz-beyond-the-physical-incident-model-how-childr]] · [@katz2020whencoercive]; [[2020-Katz-when-coercive-control-continues-to-harm-child]]). Dragiewicz: control coercitivo facilitado por tecnología ([@dragiewicz2018technologyfa]; [[2018-Dragiewicz-technology-facilitated-coercive-control-domes]]). Dichter: CC en IPV ([@dichter2018coercivecont]; [[2018-Dichter-coercive-control-in-intimate-partner-violence]]). Spearman: revisión de abuso post-separación ([@spearman2023postseparati]; [[2023-Spearman-post-separation-abuse-a-literature-review-con]]). Perry / Meyer / Studsrød: control continuado y carga materna post-sep ([@perry2025cultivatingc]; [[2025-Perry-cultivating-continued-control-post-separation]] · [@meyer2026experienceso]; [[2026-Meyer-experiences-of-post-separation-coercive-contr]] · [@studsrd2026theburdenofm]; [[2026-Studsr-D-the-burden-of-mothering-amid-post-separation]]). Johnson: femicidio íntimo y rol del CC ([@johnson2017intimatefemi]; [[2017-Johnson-intimate-femicide-the-role-of-coercive-contro]]).
 
 #### 2.1c Stalking / vigilancia post-separación
 
