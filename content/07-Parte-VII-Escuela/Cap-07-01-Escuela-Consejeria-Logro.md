@@ -1,15 +1,15 @@
 ---
 title: "Escuela, consejería y logro: el menor entre hogares y aula"
 obra: "Vinculos-Fracturados"
-lastmod: 2026-09-20
-conocimiento: 50
+lastmod: 2026-10-13
+conocimiento: 51
 ejes:
 ---
 
 # Capítulo 7.1. Escuela, consejería y logro: el menor entre hogares y aula
 
 <!-- sync:version-badge -->
-> **v1.5** · conocimiento **50** · actualizado **2026-09-20**
+> **v1.6** · conocimiento **51** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
@@ -39,7 +39,7 @@ Cuando el vínculo se fractura en casa, ¿qué ve —y qué puede hacer sin usur
 ### 2.1 Divorcio → escuela (núcleo empírico)
 
 - **NASP / impacto nacional:** Guidubaldi et al. documentan efectos del divorcio parental en niños desde la mirada de la psicología escolar ([@guidubaldi1983theimpactofp]; [[1983-Guidubaldi-the-impact-of-parental-divorce-on-children-re]]).
-- **Logro y rendimiento:** Wadsby (logro académico), McCombs (rendimiento adolescente y factores familiares protectores), Molepo (ratings docentes intactos vs. no intactos), Nisivoccia (revisión logro adolescente) ([@wadsby1996academicachi]; [[1996-Wadsby-academic-achievement-in-children-of-divorce]] · [[1989-Mccombs-adolescent-school-performance-following-paren]] · [[2010-Molepo-teacher-ratings-of-academic-achievement-of-ch]] · [[1997-Nisivoccia-the-influence-of-parental-separation-and-divo]]).
+- **Logro y rendimiento:** Wadsby (logro académico), McCombs (rendimiento adolescente y factores familiares protectores), Molepo (ratings docentes intactos vs. no intactos), Nisivoccia (revisión logro adolescente) ([@wadsby1996academicachi]; [[1996-Wadsby-academic-achievement-in-children-of-divorce]] · [[1989-Mccombs-adolescent-school-performance-following-paren]] · [[2010-Molepo-teacher-ratings-of-academic-achievement-of-ch]] · [[1997-Nisivoccia-the-influence-of-parental-separation-and-divo]]). Nilsen et al. (2022) conectan **joint physical custody** con logro académico ([@nilsen2022jointphysica]; [[2022-Nilsen-joint-physical-custody-and-academic-achieveme]]) —lectura condicional vía [[Cap-01-03-Estadistica-Mapa-Evidencia|Capítulo 1.3. Mapa estadístico: prevalencia, base rates y límites de la evidencia]] §2.8 (no prueba de 50/50 ciego).
 - **Intersección hogar–escuela:** Beausang et al. argumentan investigar desde la perspectiva del joven en ambos contextos ([@beausang2012youngpeoplew]; [[2012-Beausang-young-people-whose-parents-are-separated-or-d]]).
 
 ### 2.2 Consejería e intervenciones escolares
@@ -192,6 +192,37 @@ Archivo: `metodologia/eric-search-vinculos.json`.
 | [@anon1984schoolbasedd] | [[1984-Anon-school-based-developmental-facilitation-group]] | media | 25 |
 | [@anon2003parentalalig] | [[2003-Anon-parental-alignments-and-rejection-an-empirica]] | media | 25 |
 | [@anon1986preventivein] | [[1986-Anon-preventive-intervention-with-latency-aged-chi]] | media | 25 |
+
+
+## Oleada de evidencia (2026-10-13)
+
+| Citekey | Stem | Nivel | Score |
+|---------|------|-------|-------|
+| [@miralles2021longtermemot] | [[2021-Miralles-long-term-emotional-consequences-of-parental-2]] | alta | 70 |
+| [@miralles2021longtermemot] | [[2021-Miralles-long-term-emotional-consequences-of-parental]] | alta | 70 |
+| [@anon2002sixyearfollo] | [[2002-Anon-six-year-follow-up-of-preventive-intervention]] | media | 47 |
+| [@turner2023theeffective] | [[2023-Turner-the-effectiveness-of-online-divorce-education]] | media | 47 |
+| [@little2020romanticrela] | [[2020-Little-romantic-relationship-satisfaction-and-parent]] | media | 36 |
+| [@anon2023aqualitative] | [[2023-Anon-a-qualitative-study-of-children-s-experiences]] | media | 35 |
+| [@anon2016resiliencean] | [[2016-Anon-resilience-and-rejection-sensitivity-mediate]] | media | 25 |
+| [@atiles2017preservicete] | [[2017-Atiles-preservice-teachers-understanding-of-children]] | media | 25 |
+| [@anon2013evaluationof] | [[2013-Anon-evaluation-of-a-school-based-intervention-pro]] | media | 25 |
+| [@anon1985thechildreno] | [[1985-Anon-the-children-of-divorce-intervention-program]] | media | 25 |
+| [@anon2011childrenofdi] | [[2011-Anon-children-of-divorce-the-differential-diagnosi]] | media | 25 |
+| [@anon1994enhancingtre] | [[1994-Anon-enhancing-treatment-gains-in-a-school-based-i]] | media | 25 |
+| [@beekman1986helpingchild] | [[1986-Beekman-helping-children-cope-with-divorce-the-school]] | media | 25 |
+| [@anon1990preschoolage] | [[1990-Anon-preschool-age-children-of-divorce-transitiona]] | media | 25 |
+| [@nisivoccia1997theinfluence] | [[1997-Nisivoccia-the-influence-of-parental-separation-and-divo]] | media | 25 |
+| [@connolly2009evidencebase] | [[2009-Connolly-evidence-based-counseling-interventions-with]] | media | 25 |
+| [@anon2009parentaldivo] | [[2009-Anon-parental-divorce-and-adult-children-s-attachm]] | media | 25 |
+| [@anon1978medicalpsych] | [[1978-Anon-medical-psychologic-and-legal-aspects-of-chil]] | media | 25 |
+| [@tas2019schoolattach] | [[2019-Tas-school-attachment-and-video-game-addiction-of]] | media | 25 |
+| [@wadsby1996academicachi] | [[1996-Wadsby-academic-achievement-in-children-of-divorce]] | media | 25 |
+| [@ziffer2007theboomerang] | [[2007-Ziffer-the-boomerang-bunch-a-school-based-multifamil]] | media | 25 |
+| [@becher2022divorceandpr] | [[2022-Becher-divorce-and-predictors-of-child-outcomes-the]] | media | 25 |
+| [@adams1989theeffectsof] | [[1989-Adams-the-effects-of-divorce-on-achievement-behavio]] | media | 25 |
+| [@anon1984schoolbasedd] | [[1984-Anon-school-based-developmental-facilitation-group]] | media | 25 |
+| [@anon2003parentalalig] | [[2003-Anon-parental-alignments-and-rejection-an-empirica]] | media | 25 |
 
 ## Fuentes integradas (núcleo en prosa)
 
