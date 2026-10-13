@@ -2,14 +2,14 @@
 title: "Lealtad forzada, manipulación de la memoria y gatekeeping"
 obra: "Vinculos-Fracturados"
 lastmod: 2026-10-13
-conocimiento: 83
+conocimiento: 80
 ejes:
 nivel_evidencia_global: media
 ---
 # Capítulo 3.1. Lealtad forzada, manipulación de la memoria y gatekeeping
 
 <!-- sync:version-badge -->
-> **v1.7** · conocimiento **83** · actualizado **2026-10-13**
+> **v1.7** · conocimiento **80** · actualizado **2026-10-13**
 <!-- /sync:version-badge -->
 
 ## Resumen ejecutivo
